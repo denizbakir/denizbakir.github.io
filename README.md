@@ -13,7 +13,7 @@
       color: #000;
     }
 
-    #container {
+  #container {
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -21,11 +21,12 @@
       height: 100vh;
     }
 
-    #content {
+  
+  #content {
       text-align: center;
     }
 
-    button {
+  button {
       background-color: transparent;
       color: #fff;
       border: 2px solid #fff;
@@ -35,12 +36,12 @@
       transition: all 0.3s ease;
     }
 
-    button:hover {
+  button:hover {
       background-color: #fff;
       color: #000;
     }
 
-    #local-time {
+  #local-time {
       position: absolute;
       top: 10px;
       left: 10px;
