@@ -1,3 +1,1 @@
-# denizbakir.github.io
 
-# Deniz Baba Piyasaya Giriş Yaptı...
